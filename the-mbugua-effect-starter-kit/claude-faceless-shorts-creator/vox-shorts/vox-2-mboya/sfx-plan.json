@@ -1,0 +1,194 @@
+{
+  "video": "vox-2-mboya",
+  "catalog": "media/library/sfx/catalog.json",
+  "render": {
+    "preview": "vox-shorts/vox-2-mboya/output/vox-2-voiced.mp4",
+    "out": "vox-shorts/vox-2-mboya/output/vox-2-sfx.mp4",
+    "end_s": 69.5,
+    "duck": false
+  },
+  "events": [
+    {
+      "at_s": 4.2,
+      "gain_db": -1,
+      "note": "Age 39 chip pops",
+      "sfx_id": "pop-reveal"
+    },
+    {
+      "at_s": 6.33,
+      "gain_db": 4,
+      "note": "CONVICTED stamp slams",
+      "sfx_id": "stamp-hit"
+    },
+    {
+      "at_s": 8.46,
+      "gain_db": 0,
+      "note": "Who ordered it? chip",
+      "optional": true,
+      "sfx_id": "ui-click-soft"
+    },
+    {
+      "at_s": 10.46,
+      "gain_db": 2,
+      "note": "Kenya map drops onto board",
+      "sfx_id": "page-flip"
+    },
+    {
+      "at_s": 11.0,
+      "gain_db": -1,
+      "note": "Archival Tom Mboya photo places",
+      "sfx_id": "impact-soft"
+    },
+    {
+      "at_s": 14.16,
+      "gain_db": 0,
+      "note": "1963 Independence rally photo slides in",
+      "sfx_id": "page-flip"
+    },
+    {
+      "at_s": 19.83,
+      "gain_db": 0,
+      "note": "Cabinet Minister chip",
+      "sfx_id": "ui-click-soft"
+    },
+    {
+      "at_s": 20.6,
+      "gain_db": -3,
+      "note": "Broadcast mic slides in",
+      "sfx_id": "whoosh-soft"
+    },
+    {
+      "at_s": 23.66,
+      "gain_db": 0,
+      "note": "Possible Future President chip",
+      "sfx_id": "pop-reveal"
+    },
+    {
+      "at_s": 25.6,
+      "gain_db": -2,
+      "note": "Camera dives onto Nairobi on Kenya map",
+      "sfx_id": "whoosh-wind"
+    },
+    {
+      "at_s": 26.86,
+      "gain_db": 1,
+      "note": "July 5, 1969 headline lands",
+      "sfx_id": "impact-soft"
+    },
+    {
+      "at_s": 27.4,
+      "gain_db": 0,
+      "note": "Red dashed arrow draws to Nairobi",
+      "sfx_id": "pencil-scribble"
+    },
+    {
+      "at_s": 31.86,
+      "gain_db": 2,
+      "note": "Government Road pharmacy archival photo places",
+      "sfx_id": "page-flip"
+    },
+    {
+      "at_s": 36.33,
+      "gain_db": 2,
+      "note": "1969 Nairobi newspaper clipping rises",
+      "sfx_id": "page-flip"
+    },
+    {
+      "at_s": 40.73,
+      "gain_db": 5,
+      "note": "ASSASSINATED stamp slams (hero beat)",
+      "sfx_id": "stamp-hit"
+    },
+    {
+      "at_s": 40.73,
+      "gain_db": 1,
+      "note": "Layered weight on didn't survive",
+      "sfx_id": "impact-deep-soft"
+    },
+    {
+      "at_s": 42.1,
+      "gain_db": -3,
+      "note": "Pan to courtroom verdict board",
+      "sfx_id": "whoosh-soft"
+    },
+    {
+      "at_s": 44.5,
+      "gain_db": 0,
+      "note": "Nahashon Njenga chip",
+      "sfx_id": "pop-reveal"
+    },
+    {
+      "at_s": 44.93,
+      "gain_db": -3,
+      "note": "Courtroom gavel slides in",
+      "optional": true,
+      "sfx_id": "whoosh-soft"
+    },
+    {
+      "at_s": 46.66,
+      "gain_db": 5,
+      "note": "GUILTY stamp slams",
+      "sfx_id": "stamp-hit"
+    },
+    {
+      "at_s": 48.2,
+      "gain_db": 1,
+      "note": "Mood darkens \u2014 But here's where things get dark.",
+      "sfx_id": "riser-soft"
+    },
+    {
+      "at_s": 51.26,
+      "gain_db": 2,
+      "note": "Redacted 1969 case file drops",
+      "sfx_id": "page-flip"
+    },
+    {
+      "at_s": 53.26,
+      "gain_db": -2,
+      "note": "Noir shadow figure glides in",
+      "sfx_id": "whoosh-soft"
+    },
+    {
+      "at_s": 54.06,
+      "gain_db": 0,
+      "note": "Red arrow draws from redacted line to shadow",
+      "sfx_id": "pencil-scribble"
+    },
+    {
+      "at_s": 58.46,
+      "gain_db": 5,
+      "note": "UNANSWERED stamp slams",
+      "sfx_id": "stamp-hit"
+    },
+    {
+      "at_s": 61.1,
+      "gain_db": -3,
+      "note": "Camera pulls back to page-1 wide framing",
+      "sfx_id": "whoosh-wind"
+    },
+    {
+      "at_s": 61.46,
+      "gain_db": 0,
+      "note": "Tom Mboya cutout returns",
+      "sfx_id": "impact-soft"
+    },
+    {
+      "at_s": 63.26,
+      "gain_db": 0,
+      "note": "One leader dead chip",
+      "sfx_id": "ui-click-soft"
+    },
+    {
+      "at_s": 65.4,
+      "gain_db": 0,
+      "note": "One man hanged chip",
+      "sfx_id": "ui-click-soft"
+    },
+    {
+      "at_s": 67.33,
+      "gain_db": 0,
+      "note": "Final unresolved question \u2014 But who was behind it?",
+      "sfx_id": "impact-deep-soft"
+    }
+  ]
+}
